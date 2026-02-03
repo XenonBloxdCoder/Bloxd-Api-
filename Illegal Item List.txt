@@ -1,5 +1,4 @@
-
-
+This is the full list of blocks that are not obtainable in creative or survival only through code.
 Wood Bow|meta|charging2
 Wood Bow|meta|charging3
 Wood Bow|meta|charging4
